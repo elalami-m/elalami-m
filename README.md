@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Mohammed ElAlmi 👋
 
-<!--
-**elalami-m/elalami-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **I'm a software developer working on Expo and React Native projects, passionate about mobile app development and enhancing user experiences.** 
 
-Here are some ideas to get you started:
+🌟 I love working on projects like **Boowme**, a dating app that reflects my interest in building meaningful and culturally aware applications. I'm also experienced in integrating Firebase, Google Vision API, and optimizing UI/UX with tools like NativeWind and Swiper.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently exploring:**  
+- Advanced **Firebase** functionalities
+- Building **responsive mobile apps** with **React Native** and **Expo**
+- Leveraging cloud solutions like **Google App Engine** for scalable apps
+
+🎯 **Interests:**
+- Mobile app development (Expo, React Native)
+- UI/UX enhancements
+- TypeScript, JavaScript, and cutting-edge technologies
+- Learning more about cloud infrastructure and scaling applications
+
+---
+
+## Technologies & Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-%23000000.svg?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+
+---
+
+## WakaTime Stats:
+
+![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&theme=dark)
+
+---
+
+## Contact Me:
+- **Email**: your.email@example.com
+- **LinkedIn**: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)
