@@ -38,7 +38,7 @@
 
 ## WakaTime Stats:
 
-![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&theme=dark)
+![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=elalami-m&theme=dark)
 
 ---
 
