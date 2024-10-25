@@ -34,6 +34,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elalami-m&layout=compact&theme=dark)
 
+![Private Contributions](https://img.shields.io/badge/Private_Contributions-1000-green?style=flat-square)
+
 ---
 
 ## WakaTime Stats:
