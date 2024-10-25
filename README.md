@@ -30,9 +30,9 @@
 
 ## GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elalami-m&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elalami-m&layout=compact&theme=dark)
 
 ---
 
