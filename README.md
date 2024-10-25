@@ -20,7 +20,7 @@
 ## Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-%23000000.svg?style=flat-square&logo=expo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -43,5 +43,5 @@
 ---
 
 ## Contact Me:
-- **Email**: your.email@example.com
-- **LinkedIn**: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)
+- **Email**: mohammedelalami412@outlook.com
+- **LinkedIn**: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn](https://ma.linkedin.com/in/mohamed-elalami))
