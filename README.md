@@ -44,4 +44,4 @@
 
 ## Contact Me:
 - **Email**: mohammedelalami412@outlook.com
-- **LinkedIn**: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn](https://ma.linkedin.com/in/mohamed-elalami))
+- **LinkedIn**: [Mohammed ElAlami]([https://linkedin.com/in/YourLinkedIn](https://ma.linkedin.com/in/mohamed-elalami)](https://ma.linkedin.com/in/mohammed-elalami-a7b126311))
